@@ -1,2 +1,2 @@
 # Portfolio-Website
-My portfolio website for telegram bot development
+My Business portfolio website for telegram bot development
